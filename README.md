@@ -1,7 +1,7 @@
-#Real Time chat app
+# Real Time chat app
 
-#Install process
-I] Backend
+## Install process
+### I] Backend
   1. Navigate to Backend Directory 
      -> cd backend
   2. Install Dependencies
@@ -16,9 +16,9 @@ I] Backend
      -> After installing dependencies, start the server using:
         (npx nodemon)
 
-Open new terminal
+#### Open new terminal
 
-II} Frontend
+### II} Frontend
   1. Navigate to Frontend Directory
      -> cd frontend
   2.Start Frontend Development Server

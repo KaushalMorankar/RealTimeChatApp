@@ -26,3 +26,7 @@
      for more information on frontend start , Read the README inside the frontend directory  
 
 You are ready to use the real-time chat application after completing these setup steps.
+
+After getting started frontend server, Chat app will get initiated and you would be redirected to the app on web.
+
+#### Refrence - https://www.youtube.com/playlist?list=PL63c_Ws9ecIRZ6njHRi3cuCkNSfzqyLBn

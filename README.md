@@ -2,7 +2,7 @@
 
 ## Install process
 ### I] Backend
-  1. Navigate to Backend Directory 
+  1. Navigate to Backend Directory   
      -> cd backend
   2. Install Dependencies  
      a. npm init -y  
